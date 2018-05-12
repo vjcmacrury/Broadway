@@ -10,5 +10,20 @@ h1 {
   font-size: 70px;
   font-weight: bold;
   color: white;
+  margin: 0;
+}
 
+.topnav {
+  font-size: 18px;
+  color: white;
+  margin: 1em;
+}
+
+a:link {
+  color: white;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
 }
